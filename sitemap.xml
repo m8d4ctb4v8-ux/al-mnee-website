@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+    <!-- الصفحة الرئيسية -->
+    <url>
+        <loc>https://al-mnee.com/</loc>
+        <lastmod>2024-05-16</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+        <image:image>
+            <image:loc>https://al-mnee.com/og-image.jpg</image:loc>
+            <image:title>AL MNEE - اكسسوارات نسائية فاخرة</image:title>
+        </image:image>
+    </url>
+
+    <!-- قسم المنتجات -->
+    <url>
+        <loc>https://al-mnee.com/#products</loc>
+        <lastmod>2024-05-16</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <!-- قسم من نحن -->
+    <url>
+        <loc>https://al-mnee.com/#about</loc>
+        <lastmod>2024-05-16</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- قسم التواصل -->
+    <url>
+        <loc>https://al-mnee.com/#contact</loc>
+        <lastmod>2024-05-16</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+</urlset>
