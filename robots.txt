@@ -4,7 +4,7 @@ User-agent: *
 Allow: /
 
 # Sitemap location
-Sitemap: https://m8d4ctb4v8-ux.github.io/al-mnee-website/sitemap.xml
+Sitemap: https://zvgk80zgouhk.space.minimax.io/sitemap.xml
 
 # Crawl delay (optional)
 Crawl-delay: 1
